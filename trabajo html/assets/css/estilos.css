@@ -1,0 +1,14 @@
+body{
+   background-color: aliceblue;
+
+}
+
+div {
+
+   width: 50%;
+  
+   background: #ff8000 ;
+   margin: 20px; ;
+   padding: 30px; ;
+   border:  10px; solid #0000;
+}
